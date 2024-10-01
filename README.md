@@ -1,3 +1,5 @@
+Project from course Docker for Java Developers- John Thompson • 500,000+ Enrollments Worldwide - Udemy: https://www.udemy.com/course/docker-for-java-developers/
+
 # Run this project 
 - Run the command ```mvn clean install```  in the project folder, or in Eclipse IDE, right-click on the project and select Run As > Maven Install to generate the .jar file.
 - When I tried running the following command: ```docker build -t spring-boot-docker .``` I encountered the following error :
